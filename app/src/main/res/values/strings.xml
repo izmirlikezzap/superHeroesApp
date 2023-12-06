@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Heroes</string>
+    <string name="hero1">Nick the Night and Day</string>
+    <string name="description1">The Jetpack Hero</string>
+    <string name="extra1">Nick can soar through the skies with his advanced jetpack, making him the fastest hero in both day and night. His jetpack is equipped with state-of-the-art technology, allowing him to navigate seamlessly through any environment.</string>
+
+    <string name="hero2">Reality Protector</string>
+    <string name="description2">Understands the absolute truth</string>
+    <string name="extra2">Reality Protector possesses the unique ability to manipulate time, ensuring that he can foresee and prevent any potential threats to the world. His wisdom in deciphering absolute truths enables him to outsmart villains and safeguard the fabric of reality itself.</string>
+
+    <string name="hero3">Andre the Giant</string>
+    <string name="description3">Mimics the light and night to blend in</string>
+    <string name="extra3">Andre s mastery over light manipulation allows him to create illusions, making him virtually invisible to his enemies during night missions. He can seamlessly blend with his surroundings, providing a strategic advantage in both stealth and surprise attacks.</string>
+
+    <string name="hero4">Benjamin the Brave</string>
+    <string name="description4">Harnesses the power of canary to develop bravely</string>
+    <string name="extra4">Benjamin draws strength from his connection with the mythical canary, enhancing his bravery and empowering him to face even the most daunting challenges. The canarys energy radiates through Benjamin, boosting his resilience and inspiring courage in those around him.</string>
+
+    <string name="hero5">Magnificent Maru</string>
+    <string name="description5">Effortlessly glides in to save the day</string>
+    <string name="extra5">Maru s suit is equipped with advanced gliding technology, allowing her to navigate urban landscapes with grace and speed, reaching distressed areas in record time. Shes known for her impeccable entrance style, appearing like a graceful guardian descending from the sky to rescue those in need.</string>
+
+    <string name="hero6">Dynamic Yasmine</string>
+    <string name="description6">Ability to shift to any form and energize</string>
+    <string name="extra6">Dynamic Yasmine s remarkable shape-shifting prowess allows her to seamlessly transform into the surrounding environment, gaining a tactical advantage by merging with the elements. This unique ability, coupled with her unparalleled talent to instantly energize herself and her allies, makes her an invaluable force in the ever-changing landscape of superhero battles.</string>
+
+    <string name="about">About:</string>
+</resources>
